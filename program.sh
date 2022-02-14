@@ -5,6 +5,9 @@ echo "Hello World!";
 
 echo "Feature 2";
 
+echo "Feature 4 part 1";
+
+
 read -p "Give your name: " name;
 
 echo $name;
@@ -21,6 +24,7 @@ echo "Feature 2";
 
 echo "Feature 3 part 1";
 echo "Feature 3 part 2";
+
 
 
 
